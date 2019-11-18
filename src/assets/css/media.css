@@ -224,6 +224,10 @@
 
 @media only screen and (max-width: 1199px) {
 
+    .home_block4_wrapper ul li{ width: 286px;}
+
+    .home_block4_wrapper ul li:hover mat-card-subtitle .mat-card-content{height: 299px;}
+
     .services_banner_wrapper{ padding-top:0px!important;}
 
     .contact_banner_wrapper{padding-top:0px!important;}
@@ -232,7 +236,7 @@
 
     .asimgwrapper {
         text-align: center;
-        position: relative; padding: 0px!important;
+        position: relative;
 
     }
     .ascontainerrow{ margin-bottom: 0px!important;}
@@ -623,8 +627,6 @@
     .as_ourteamwrapper3 .ourteamuserlistmainwrapper {width: 44%;}
 }
 @media screen and (max-width : 1199px){
-
-
     .asblockchainblock3 .as_textwrapper h3 br{ display: none;}
     .asblockchainblock2 .as_textwrapper h3 br{ display: none;}
 
@@ -799,7 +801,7 @@
     .ourteamuserlistmainwrapper{padding: 20px !important;}
     .as_ourteamwrapper3 .ourteamuserlistmainwrapper:nth-child(even) {padding: 20px !important;}
     .as_ourteamwrapper3 .ourteamuserlistmainwrapper {margin-bottom: 36px !important;}
-    /*.asblockchainblock5 .col_container .asimgwrapper {padding: 15px;}*/
+    .asblockchainblock5 .col_container .asimgwrapper {padding: 15px;}
     .asblockchainblock5 .col_container .asimgwrapper{width: auto; padding: 20px!important; background: #166727; overflow: hidden;}
     .asblockchainblock5containerwrapper .col_container .asimgwrapper img {
         padding: 0;

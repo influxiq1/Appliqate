@@ -25,7 +25,7 @@
         By putting power back in the hands of the user, blockchain enables entrepreneurs to grow at their own pace, be paid in a fair and transparent environment, and lock in their team for life. In turn, Compaffiliates eliminates some common pitfalls of the network marketing space, including fraud, withheld commissions, and cross-recruiting.
       </h3>
       <mat-card-actions class="asbuttonwrapper">
-        <button class="greenbtn">Visit Compaffiliates Today</button>
+        <button class="greenbtn" (click)=scrollToTop()>Visit Compaffiliates Today</button>
       </mat-card-actions>
     </mat-card-content>
   </mat-card-title-group>
@@ -41,7 +41,7 @@
       </mat-card-subtitle>
     </mat-card-subtitle>
   <mat-card-actions class="asbuttonwrapper">
-    <button mat-button class="greenbtn2">Get Started</button>
+    <button mat-button class="greenbtn2" [routerLink]="['/contact']">Get Started</button>
   </mat-card-actions>
 </mat-card-content>
 <mat-card-content class="home_block5 as_compaffiwrapper4">
@@ -113,15 +113,6 @@
     </mat-card-content>
 
   </mat-card-content>
-
-
-
-
-
-
-
-
-
 
 </mat-card-content>
 
@@ -209,7 +200,7 @@
   <h2>The Compaffiliates Vision</h2>
   <h3>Compaffiliates has the power to transform affiliate marketing on a global scale. The only question is… will you take <br>your chance to get in from the beginning?</h3>
   <mat-card-actions class="asbuttonwrapper">
-    <button mat-button class="greenbtn3">Get Started</button>
+    <button mat-button class="greenbtn3" [routerLink]="['/contact']">Get Started</button>
   </mat-card-actions>
 </mat-card-content>
 
