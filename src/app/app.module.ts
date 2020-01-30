@@ -19,6 +19,12 @@ import { OurteampopupComponent } from './ourteampopup/ourteampopup.component';
 import { SubmitpopupComponent } from './submitpopup/submitpopup.component';
 
 import { MetaModule } from '@ngx-meta/core';
+import { FaqComponent } from './faq/faq.component';
+import { NewsReleasesComponent } from './news-releases/news-releases.component';
+import { SECFilingsComponent } from './sec-filings/sec-filings.component';
+import { ManagementTeamComponent } from './management-team/management-team.component';
+import { LetterToShareholdersComponent } from './letter-to-shareholders/letter-to-shareholders.component';
+import { CompanyOverviewComponent } from './company-overview/company-overview.component';
 
 
 @NgModule({
@@ -34,6 +40,12 @@ import { MetaModule } from '@ngx-meta/core';
     OurteamComponent,
     OurteampopupComponent,
     SubmitpopupComponent,
+    FaqComponent,
+    NewsReleasesComponent,
+    SECFilingsComponent,
+    ManagementTeamComponent,
+    LetterToShareholdersComponent,
+    CompanyOverviewComponent,
     // AboutusComponent,
     // ContactusComponent
   ],

@@ -1,0 +1,39 @@
+.faq_body{ background-color: #f1f5f8!important; overflow: hidden; display: block;}
+
+.faq_wrapper{ width: 1150px; margin: 53px auto!important; background: #fff; box-shadow: 0 0 4px #bfc2c4; display: block; padding: 20px;}
+
+.faq_wrapper h2{ font-size: 36px; color: #050605;    font-family: 'RalewayBold'; text-transform: uppercase; border-bottom: solid 1px#cdcdcd; margin: 0; padding: 0;}
+
+.faq_wrapper label{ display: block; margin: 0; padding: 20px 0 5px 0; font-size: 30px; color: #579864; font-family: 'RalewayBold';}
+
+
+.faq_wrapper p{ display: block; font-size: 18px; color: #202020;     font-family: 'OpenSans'; padding: 10px 20px;}
+
+
+.faq_wrapper p strong{ display: inline-block; font-weight: bold;}
+
+.faq_wrapper p span{ display: inline-block; font-weight: bold; padding: 0 30px;}
+
+.faq_wrapper p a{ color: #1245ea;  display: inline-block; font-weight: bold;}
+
+.faq_bannermainwrapper{ background: url(../../assets/images/faqbanner.jpg); background-size: cover;}
+
+
+@media screen and (max-width : 1300px){
+    .faq_wrapper{ width: 1050px; }
+}
+
+
+@media screen and (max-width : 1199px){
+    .faq_wrapper{ width: 80%; }
+
+    .faq_wrapper p span{ display: block; padding: 30px 0;}
+
+    
+.faq_wrapper p strong{display: block;}
+}
+
+@media screen and (max-width : 480px){
+    .faq_wrapper label{ font-size: 22px;}
+
+}

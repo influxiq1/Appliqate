@@ -8,6 +8,16 @@ import {BlockchainComponent} from '../app/blockchain/blockchain.component'
 import {OurteamComponent} from '../app/ourteam/ourteam.component'
 
 
+ 
+import { FaqComponent } from './faq/faq.component';
+import { NewsReleasesComponent } from './news-releases/news-releases.component';
+import { SECFilingsComponent } from './sec-filings/sec-filings.component';
+import { ManagementTeamComponent } from './management-team/management-team.component';
+import { LetterToShareholdersComponent } from './letter-to-shareholders/letter-to-shareholders.component';
+import { CompanyOverviewComponent } from './company-overview/company-overview.component';
+
+
+
 const routes: Routes = [
   {path:'home', component: HomeComponent},
   {path:'', component: HomeComponent},
@@ -16,6 +26,14 @@ const routes: Routes = [
   {path:'compaffiliates', component: CompaffiliatesComponent},
   {path:'blockchain', component: BlockchainComponent},
   {path:'ourteam', component: OurteamComponent},
+
+
+  {path:'faq', component: FaqComponent},
+  {path:'news-releases', component: NewsReleasesComponent},
+  {path:'SEC-filings', component: SECFilingsComponent},
+  {path:'management_team', component: ManagementTeamComponent},
+  {path:'letter-shareholders', component: LetterToShareholdersComponent},
+  {path:'company-overview', component: CompanyOverviewComponent},
 
 ];
 

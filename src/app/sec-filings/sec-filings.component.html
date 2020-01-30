@@ -1,0 +1,337 @@
+<app-header></app-header>
+
+<mat-card-content class="as_bannermainwrapper sfc_bannermainwrapper">
+  <mat-card-content class="home_banner_wrapper">
+    <mat-card-subtitle class="as_bannertextmainwrapper">
+      <mat-card-content class="as_textwrapper">
+        <h2>Lorem Ipsum is simply</h2>
+        <h3>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</h3>
+      </mat-card-content>
+    </mat-card-subtitle>
+  </mat-card-content>
+</mat-card-content>
+
+<mat-card-content class="sfc_body">
+
+
+  <mat-card-content class="sfc_wrapper">
+
+
+    <mat-card-content class="sfc_wrapper_table">
+
+    <h2>FILINGS AND DISCLOSURE</h2>
+    <table class="toptableblock" cellpadding="0" cellspacing="0">
+    <tr>
+      <th>OTC Disclosure & News</th>
+      <th>Active</th>
+      <th>Inactive</th>
+      <th>All</th>
+     </tr>
+    </table>
+
+    <table class="maintableblock" cellpadding="0" cellspacing="0">
+      <thead>
+         <tr>
+          <th>PUBLISH DATE</th>
+          <th>TITLE</th>
+          <th>PERIOD END DATE	</th>
+          <th>STATUS</th>
+         </tr>
+   
+        </thead>
+        <tbody>
+     <tr>
+       <td data-title="PUBLISH DATE"><span>12/21/2019</span></td>
+       <td data-title="TITLE"><span>Quarterly Report - Quarterly Report</span></td>
+       <td data-title="PERIOD END DATE"><span>10/31/2019</span></td>
+       <td  data-title="STATUS"><span>A</span></td>
+     </tr>
+
+     <tr>
+      <td data-title="PUBLISH DATE"><span>12/21/2019</span></td>
+      <td data-title="TITLE"><span>Quarterly Report - Quarterly Report	</span> </td>
+      <td  data-title="PERIOD END DATE"><span>10/31/2019</span></td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>12/16/2019</span></td>
+      <td data-title="TITLE"><span>Notification of Late Filing - Notification of Late Filing	</span> </td>
+      <td  data-title="PERIOD END DATE"><span>10/31/2019	</span></td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/17/2019	</span></td>
+      <td data-title="TITLE"><span>Attorney Letter with Respect to Current Information - Attorney 
+        Letter with Respect to Current Information </span></td>
+      <td  data-title="PERIOD END DATE"><span>01/31/2019</span>	</td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/13/2019</span></td>
+      <td data-title="TITLE"><span>Interim Financial Report - Disclosure Statement Pursuant to 
+        the Pink Basic Disclosure Guidelines</span></td>
+      <td  data-title="PERIOD END DATE"><span>04/30/2019</span></td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/13/2019	</span></td>
+      <td data-title="TITLE"><span>Quarterly Report - Disclosure Statement Pursuant to the Pink 
+        Basic Disclosure Guidelines	</span></td>
+      <td  data-title="PERIOD END DATE"><span>07/31/2018</span></td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/13/2019	</span></td>
+      <td data-title="TITLE"><span>Annual Report - Disclosure Statement Pursuant to the Pink
+        Basic Disclosure Guidelines</span>	</td>
+      <td  data-title="PERIOD END DATE"><span>01/31/2019</span>	</td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/09/2019</span></td>
+      <td data-title="TITLE"><span>Quarterly Report - APQT Financial Statement Q2 2019	</span></td>
+      <td  data-title="PERIOD END DATE"><span>07/31/2019</span></td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/04/2019</span></td>
+      <td data-title="TITLE"><span>Interim Financial Report - APQT Financial Statement Q1 2019</span>	</td>
+      <td  data-title="PERIOD END DATE"><span>04/30/2019</span>	</td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+    <tr>
+      <td data-title="PUBLISH DATE"><span>09/04/2019</span></td>
+      <td data-title="TITLE"><span>Annual Report - APQT Financial Statement 2019</span>	</td>
+      <td  data-title="PERIOD END DATE"><span>01/31/2019</span>	</td>
+      <td data-title="STATUS"><span>A</span></td>
+    </tr>
+
+
+    <tr>
+      <td colspan="4"><label>Displaying 10 of 10 Disclosure & News</label>  </td>
+       
+    </tr>
+
+  </tbody>
+
+    </table>
+   
+    </mat-card-content>
+
+    <mat-card-content class="sfc_wrapper_table sfc_wrapper_table2">
+
+      <table class="toptableblock" cellpadding="0" cellspacing="0">
+        <tr>
+          <th>SEC Filings</th>
+          
+         </tr>
+        </table>
+
+          
+  <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8" class="maintableblock" cellpadding="0" cellspacing="0">
+
+    <!-- Position Column -->
+    <ng-container matColumnDef="formType">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> FORM TYPE </th>
+      <td mat-cell *matCellDef="let element" data-title="FORM TYPE"> <span class="textblockcon">{{element.formType}} </span></td>
+    </ng-container>
+  
+    <!-- Name Column -->
+    <ng-container matColumnDef="received">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> RECEIVED </th>
+      <td mat-cell *matCellDef="let element" data-title="RECEIVED">  <span class="textblockcon">{{element.received}} </span></td>
+    </ng-container>
+  
+    <!-- Weight Column -->
+    <ng-container matColumnDef="enddate">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> PERIOD END DATE </th>
+      <td mat-cell *matCellDef="let element" data-title="PERIOD END DATE">  <span class="textblockcon">{{element.enddate}}</span> </td>
+    </ng-container>
+  
+    <!-- Symbol Column -->
+    <ng-container matColumnDef="report">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> REPORT </th>
+      <td mat-cell *matCellDef="let element" data-title="REPORT"> <span class="textblockcon">{{element.report}}
+      <span class="PDF_icon">PDF</span>  
+      <span class="RTF_icon">RTF</span>  
+      <span class="HTML_icon">HTML</span>  
+      <span class="XLS_icon">XLS</span>  
+
+      </span>
+      </td>
+    </ng-container>
+  
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+  <table class="paginationtable"><tr><td>
+   <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
+  </td></tr></table>
+    </mat-card-content>
+
+    <mat-card-content class="sfc_wrapper_table">
+
+      <h2>INSIDER DISCLOSURE</h2>
+
+
+      <table class="toptableblock" cellpadding="0" cellspacing="0">
+        <tr>
+          <th>OTC Disclosure & News</th>
+             
+         </tr>
+        </table>
+
+
+        <table class="maintableblock " cellpadding="0" cellspacing="0">
+         
+    
+        <tr>
+          <td ><label class="maglabel">No insider disclosure available for APQT.</label>  </td>
+           
+        </tr>
+    
+ 
+    
+        </table>
+
+
+      </mat-card-content>
+
+
+      <mat-card-content class="sfc_wrapper_table">
+     <table class="toptableblock" cellpadding="0" cellspacing="0">
+          <tr>
+            <th>SEC Transactions Last 6 Months</th>
+               
+           </tr>
+          </table>
+  
+  
+          <table class="maintableblock " cellpadding="0" cellspacing="0">
+           
+      
+          <tr>
+            <td  class="sec_tdblock">
+              
+              <h6 class="tableh6text">Buy / Sell</h6>
+
+              <table cellpadding="0" cellspacing="0">
+                <thead>
+                  <tr>
+                  <th>BUYS</th>
+                  <th> SELLS  </th>
+                  <th> TOTAL</th>
+                </tr>
+                   
+                </thead>
+                <tbody> 
+
+                  <tr>
+                    <td data-title="BUYS"><span>0</span></td>
+                    <td data-title="SELLS"><span>0</span></td>
+                    <td data-title="TOTAL"><span>0</span></td>
+
+
+                  </tr>
+
+
+                </tbody>
+
+
+              </table>
+
+
+            
+            </td>
+
+            <td  class="sec_tdblock">
+              
+              <h6 class="tableh6text">Shares</h6>
+
+              <table cellpadding="0" cellspacing="0">
+                <thead>
+                  <tr>
+                  <th>BOUGHT</th>
+                  <th> SOLD  </th>
+                  <th> GROSS</th>
+                  <th> NET</th>
+                </tr>
+                   
+                </thead>
+                <tbody> 
+
+                  <tr>
+                    <td data-title="BOUGHT"><span>0</span></td>
+                    <td data-title="SOLD"><span>0</span></td>
+                    <td data-title="GROSS"><span>0</span></td>
+                    <td data-title="NET"><span>0</span></td>
+
+
+                  </tr>
+
+
+                </tbody>
+
+
+              </table>
+
+            </td>
+             
+          </tr>
+      
+   
+      
+          </table>
+  
+  
+        </mat-card-content>
+
+
+
+      <mat-card-content class="sfc_wrapper_table">
+
+       
+  
+        <table class="toptableblock" cellpadding="0" cellspacing="0">
+          <tr>
+            <th>SEC Transactions Last 2 Years</th>
+               
+           </tr>
+          </table>
+  
+  
+          <table class="maintableblock " cellpadding="0" cellspacing="0">
+           
+      
+          <tr>
+            <td ><label class="maglabel">No insider disclosure available for APQT.</label>  </td>
+             
+          </tr>
+      
+   
+      
+          </table>
+  
+  
+        </mat-card-content>
+
+
+    
+  </mat-card-content>
+
+
+</mat-card-content>
+
+
+
+<app-footer></app-footer>

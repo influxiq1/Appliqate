@@ -1,0 +1,45 @@
+.news-releases_body{ background-color: #f1f5f8!important; overflow: hidden; display: block;}
+
+.news-releases_wrapper{ width: 1150px; margin: 53px auto!important; background: #fff; box-shadow: 0 0 4px #bfc2c4; display: block; padding: 20px;}
+
+.news-releases_wrapper h2{ font-size: 36px; color: #050605;    font-family: 'RalewayBold'; text-transform: uppercase; border-bottom: solid 1px#cdcdcd; margin: 0; padding: 0;}
+
+.news-releases_wrapper label{ display: block; margin: 0; padding: 20px 0 5px 0; font-size: 30px; color: #579864; font-family: 'RalewayBold';}
+
+.news-releases_wrapper label:nth-of-type(1){ padding-top: 0px;}
+
+.news-releases_wrapper p{ display: block; font-size: 18px; color: #202020;     font-family: 'OpenSans'; padding: 10px 0px;}
+
+.news-releases_wrapper span{ display: block; font-size: 16px; color: #b2b2b2;     font-family: 'OpenSansSemibold'; padding: 10px 0 0 0;}
+
+
+.news-releases_wrapper a{ display: block; float: right; width: 168px; line-height: 60px; text-align: center; border: none; cursor: pointer; background: #579864; font-size: 18px; color: #ffffff;  font-family: 'OpenSans';}
+
+ 
+
+.news-releases_bannermainwrapper{ background: url(../../assets/images/news-releases_banner.jpg); background-size: cover;     background-position: right top;}
+
+@media screen and (max-width : 1660px){
+    .news-releases_bannermainwrapper{background-position: -160px top;}
+}
+
+@media screen and (max-width :1550px){
+    .news-releases_bannermainwrapper{background-position: -250px top;}
+}
+
+
+@media screen and (max-width : 1300px){
+    .news-releases_wrapper{ width: 1050px; }
+}
+
+
+@media screen and (max-width : 1199px){
+    .news-releases_wrapper{ width: 80%; }
+
+ 
+}
+
+@media screen and (max-width : 480px){
+    .news-releases_wrapper label{ font-size: 22px;}
+
+}
