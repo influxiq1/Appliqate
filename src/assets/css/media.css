@@ -224,6 +224,13 @@
 
 @media only screen and (max-width: 1199px) {
 
+    .top_header .top_menu {
+        width: 660px;}
+
+        .top_menu li { 
+            margin: 0px 8px; 
+        }
+
     .home_block4_wrapper ul li{ width: 286px;}
 
     .home_block4_wrapper ul li:hover mat-card-subtitle .mat-card-content{height: 299px;}
@@ -299,7 +306,9 @@
         background-position: center top; height: auto; background-size: 100%; padding-top: 46%;
     }
 
-    .home_banner_wrapper{ width:auto;}
+    .home_banner_wrapper{ width:100%;}
+
+    
 
     .home_banner mat-card-subtitle{ height:auto;   display: block; width:auto; background: #156321; padding: 25px;  }
 
@@ -643,7 +652,7 @@
     .ascontainerrow:nth-child(even) .col_container .as_textwrapper {
         margin-left: 0;
     }
-    .as_bannermainwrapper .as_bannertextmainwrapper {margin-left: 0px; width: auto;}
+    .as_bannermainwrapper .as_bannertextmainwrapper {margin-left: 0px; width: 100%;}
     .as_bannermainwrapper {
         background-size: 168%;
         min-height: inherit !important;

@@ -1,0 +1,82 @@
+.shareholders_body{ background-color: #f1f5f8!important; overflow: hidden; display: block;}
+
+.shareholders_wrapper{ width: 1150px; margin: 53px auto!important; margin-top: 0px!important; background: #fff; box-shadow: 0 0 4px #bfc2c4; display: block; padding: 20px;}
+
+.shareholders_wrapper h2{ font-size: 38px; color: #579864;    font-family: 'RalewayBold'; text-transform: uppercase;  margin: 0; padding:15px 0;}
+
+
+.shareholders_bannermainwrapper{ background: url(../../assets/images/shareholders_banner.jpg); background-size: cover;}
+
+
+.shareholders_wrapper_top{ width: 1190px; clear: both;margin: 48px auto!important; margin-bottom: 15px!important; text-align: right; display: block; border-bottom: solid 1px #525252; padding-bottom: 25px; overflow: hidden;}
+
+.shareholders_wrapper_top .downbtn{    display: inline-block; width: 220px;
+    line-height: 60px;
+    background: #579864;
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+    font-family: 'RalewaySemiBold' ; float: right;}
+
+    .shareholders_wrapper_top span{ display: inline-block; padding: 40px 10px 0 0; float: right; font-size: 16px; color: #333333; font-family: 'RalewaySemiBold';}
+
+
+    .shareholders_wrapper label{ display: block; font-size: 16px; color: #579864; font-family: 'Raleway'; margin: 0; padding: 0;}
+
+    .shareholders_wrapper  p{    padding: 0px; margin: 0;
+        font-size: 18px;
+        color: #202020; line-height: 28px;
+        font-family: 'OpenSans';}
+
+@media screen and (max-width : 1560px){
+
+    .shareholders_bannermainwrapper{ background-position: -360px top!important;}
+
+}
+
+@media screen and (max-width : 1300px){
+    .shareholders_wrapper{ width: 1050px; }
+
+    .shareholders_wrapper_top{ width: 1090px; }
+}
+
+
+@media screen and (max-width : 1199px){
+    .shareholders_bannermainwrapper{ background-position: right top!important;}
+    .shareholders_wrapper{ width: 80%; }
+
+    .shareholders_wrapper p span{ display: block; padding: 30px 0;}
+
+    .shareholders_wrapper_top{ width: 84%;}
+
+.shareholders_wrapper p strong{display: block;}
+}
+
+@media screen and (max-width : 767px){
+    .shareholders_wrapper_top{ width: 86%;}
+}
+
+@media screen and (max-width : 580px){
+    .shareholders_wrapper_top{ text-align: center; position: relative;  width: 88%;   padding-top: 40px;}
+
+    .shareholders_wrapper_top .downbtn{ float: none;}
+
+    .shareholders_wrapper_top  span { position: absolute;
+        display: block;
+        float: none;
+        padding: 0px;
+        left: 0;
+        top: 0;
+        text-align: center;
+        width: 100%;}
+
+}
+
+
+@media screen and (max-width : 480px){
+.shareholders_wrapper  h2 {
+    font-size: 30px;}
+ 
+    .shareholders_wrapper label{ font-size: 22px;}
+
+}

@@ -209,6 +209,8 @@
 }
 
 @media screen and (max-width : 480px){
+
+    
     .sfc_wrapper label{ font-size: 22px;}
 
 }
