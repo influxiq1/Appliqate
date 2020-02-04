@@ -49,6 +49,9 @@ box-shadow: 1px 1px 8px 0px rgba(115,128,135,1);}
     .team_wrapper{ width: 1050px; }
 
     .team_bannermainwrapper{ background-position: -100px top!important;}
+
+    .team_body h2 {
+        width: 1090px;}
 }
 
 
@@ -64,6 +67,10 @@ box-shadow: 1px 1px 8px 0px rgba(115,128,135,1);}
 
     
 .team_wrapper p strong{display: block;}
+
+
+.team_body h2 {
+    width: 85%;}
 }
 
 @media screen and (max-width : 991px){
@@ -78,5 +85,10 @@ box-shadow: 1px 1px 8px 0px rgba(115,128,135,1);}
 
  
     .team_wrapper label{ font-size: 22px;}
+
+    .as_textwrapper h2{ font-size: 28px;}
+
+    .team_body h2 {
+        width: 88%;}
 
 }

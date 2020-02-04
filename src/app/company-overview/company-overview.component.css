@@ -12,9 +12,9 @@
 
 .company-overview_bannermainwrapper .as_textwrapper{ position: relative;}
 
-.company-overview_bannermainwrapper .as_textwrapper h3{ width: 380px;}
+/* .company-overview_bannermainwrapper .as_textwrapper h3{ width: 380px;} */
 
-.company-overview_bannermainwrapper .downbtn{ display: block; position: absolute; width:220px; right: 35px; bottom: 35px; line-height: 60px; background: #579864; text-align: center; font-size: 15px; color: #ffffff;  font-family: 'RalewaySemiBold';} 
+.company-overview_bannermainwrapper .downbtn{ display: block; margin-top: 15px;   width:220px;  bottom: 35px; line-height: 60px; background: #579864; text-align: center; font-size: 15px; color: #ffffff;  font-family: 'RalewaySemiBold';} 
 
 
 .company-overview_wrapper h3{    text-align: left;
@@ -163,5 +163,7 @@
         }
 
         .company-overview_block3btn { width: 150px;}
+
+        .as_textwrapper h2{ font-size: 28px;}
 
 }

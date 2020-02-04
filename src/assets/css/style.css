@@ -87,7 +87,7 @@ a:focus{outline:none;outline:none;outline-offset:inherit;}
     list-style-type:none;
     margin:0;
     padding:0;
-    position: absolute;
+    position: absolute; z-index: 9999;
 }
 
 /*Create a horizontal list with spacing*/
