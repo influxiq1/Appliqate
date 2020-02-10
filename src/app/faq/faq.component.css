@@ -7,7 +7,7 @@
 .faq_wrapper label{ display: block; margin: 0; padding: 20px 0 5px 0; font-size: 30px; color: #579864; font-family: 'RalewayBold';}
 
 
-.faq_wrapper p{ display: block; font-size: 18px; color: #202020;     font-family: 'OpenSans'; padding: 10px 20px;}
+.faq_wrapper p{ display: block; font-size: 18px; color: #202020; line-height: 26px;     font-family: 'OpenSans'; padding: 10px 20px 5px 20px;}
 
 
 .faq_wrapper p strong{ display: inline-block; font-weight: bold;}
@@ -30,7 +30,7 @@
     .faq_wrapper p span{ display: block; padding: 30px 0;}
 
     
-.faq_wrapper p strong{display: block;}
+ 
 }
 
 @media screen and (max-width : 480px){
@@ -38,5 +38,7 @@
  
     .faq_wrapper label{ font-size: 22px;}
     .as_textwrapper h2{ font-size: 28px;}
+    .faq_wrapper p a{ word-break: break-all; display: block; line-height: 18px;}
 
+    .faq_wrapper p{ padding-left: 0; padding-right: 0;}
 }

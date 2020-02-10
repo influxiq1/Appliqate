@@ -1,5 +1,48 @@
 <mat-card-content class="footer_block">
 
+
+  <ul class="footermainmenu">
+    <li [ngClass]="router.url === '/' ? 'active' : '' || router.url === '/home' ? 'active' : '' "><button mat-menu-item base  [routerLink]="['/']">HOME</button></li>
+    <li [ngClass]="router.url === '/blockchain' || router.url === '/compaffiliates' ? 'active' : ''">
+
+      <button mat-menu-item class="submenu"><span>Core Technologies</span> <i class="material-icons">keyboard_arrow_down </i></button>
+
+      <ul class="hidden">
+
+        <li class="dropdownmenu" [ngClass]="router.url === '/blockchain' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/blockchain']">BLOCKCHAIN</button></li>
+        <li class="dropdownmenu" [ngClass]="router.url === '/compaffiliates' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/compaffiliates']">COMPAFFILIATES</button></li>
+      </ul>
+    </li>
+
+    <li [ngClass]="router.url === '/services' ? 'active' : ''"><button mat-menu-item [routerLink]="['/services']">SERVICES</button></li>
+
+
+    <li [ngClass]="router.url === '/company-overview' || router.url === '/letter-shareholders' || router.url === '/management_team' || router.url === '/SEC-filings' || router.url === '/news-releases' || router.url === '/faq' ? 'active' : ''">
+
+      <button mat-menu-item class="submenu"><span>INVESTORS</span> <i class="material-icons">keyboard_arrow_down </i></button>
+
+      <ul class="hidden hidden2">
+
+        <li class="dropdownmenu" [ngClass]="router.url === '/company-overview' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/company-overview']">Company Overview</button></li>
+        <li class="dropdownmenu" [ngClass]="router.url === '/letter-shareholders' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/letter-shareholders']">Letter to Shareholders</button></li>
+        <li class="dropdownmenu" [ngClass]="router.url === '/management_team' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/management_team']">Management Team</button></li>
+        <li class="dropdownmenu" [ngClass]="router.url === '/SEC-filings' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/SEC-filings']">SEC Filings</button></li>
+        <li class="dropdownmenu" [ngClass]="router.url === '/news-releases' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/news-releases']">News Releases</button></li>
+        <li class="dropdownmenu" [ngClass]="router.url === '/faq' ? 'active' : ''"> <button mat-menu-item [routerLink]="['/faq']">FAQ</button></li>
+      </ul>
+    </li>
+
+
+
+   <!-- <li [ngClass]="router.url === '/ourteam' ? 'active' : ''"><button mat-menu-item [routerLink]="['/ourteam']">OUR TEAM  </button></li>-->
+
+   <!-- <li><button mat-button (click)="openDialog()">OUR TEAM</button></li>-->
+
+    <li [ngClass]="router.url === '/contact' ? 'active' : ''"><button mat-menu-item [routerLink]="['/contact']">CONTACT US</button></li>
+    <span class="claer"></span>
+
+  </ul>
+<span class="claer"></span>
 <p>
   © 2019 - Appliqate All Right Reserved
 </p>

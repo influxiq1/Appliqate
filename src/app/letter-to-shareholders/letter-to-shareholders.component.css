@@ -28,6 +28,11 @@
         color: #202020; line-height: 28px;
         font-family: 'OpenSans';}
 
+        .strong1{ display: block; padding-bottom: 15px; color: #579864; font-size: 22px;}
+
+        .strong2{  color: #579864;  }
+        .strong3{  color: #579864;  }
+
 @media screen and (max-width : 1560px){
 
     .shareholders_bannermainwrapper{ background-position: -360px top!important;}

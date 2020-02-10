@@ -1,0 +1,74 @@
+.footermainmenu{ display: block; width: 570px; margin: 0 auto; margin-bottom: 20px;}
+
+.footermainmenu li{  float: left; position: relative; list-style: none;}
+
+.footermainmenu li button{    text-align: center;
+    color: #fff;
+  border: none; line-height: 20px!important;
+   
+    border-radius: 0px;
+   font-family: 'OpenSans';
+    font-size: 14px;
+
+    padding: 12px 12px;
+    outline: none!important;
+    cursor: pointer;
+    text-transform: uppercase;}
+
+    .footermainmenu li button .material-icons{ float: right;}
+    .claer{ clear: both; overflow: hidden; display: block; }
+
+
+   .footermainmenu li .hidden{ display: none;} 
+
+
+    .footermainmenu  li:hover .hidden{
+        display:block;  
+    }
+
+    .footermainmenu  .hidden{ position: absolute; top: 30px; width: 240px; }
+
+    .footermainmenu  .hidden li{ float: left!important; display: inline-block;}
+
+    .footermainmenu  .hidden li button{ width: auto!important; }
+
+
+   .footermainmenu .dropdownmenu button{ background: #111!important; margin: 1px; }
+
+   .footermainmenu .dropdownmenu button:hover{ background-color: #0d5816!important;}
+
+
+   .footermainmenu  .hidden2{ width: 610px;}
+
+   .footermainmenu .hidden2 .dropdownmenu{ width: 33%!important;}
+
+  .footermainmenu .hidden2 .dropdownmenu button{ width: 100%!important;}
+
+
+
+  @media screen and (max-width : 1540px) {
+
+    .footermainmenu  .hidden2{left: -210px;}
+
+  }
+
+
+  @media screen and (max-width : 1050px) {
+
+    .footermainmenu li{  float: none; display: block; border-bottom: solid 1px #ccc;}
+
+    .footermainmenu{ width: 100%;}
+
+    .footermainmenu  .hidden{ position: inherit; top: 0px; width:100%; }
+ 
+    .footermainmenu  .hidden2{ width: 100%; left: 0px;}
+
+    .footermainmenu  .hidden li{ float: none!important; display:block; width: 100%!important;}
+
+    .footermainmenu .hidden2 .dropdownmenu{ width: 100%!important;}
+
+    .footermainmenu .hidden .dropdownmenu{ width: 100%!important;}
+
+    .footermainmenu .hidden .dropdownmenu button{ width: 100%!important;}
+ 
+  }

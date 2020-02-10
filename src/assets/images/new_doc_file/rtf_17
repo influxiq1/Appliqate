@@ -1,0 +1,140 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\deflang1033
+{\colortbl\red0\green0\blue0;\red224\green224\blue255;\red0\green0\blue255;}{\fonttbl{\f2\fswiss Arial;}{\f1\fmodern Courier New;}{\f3\fdecor Symbol;}{\f0\froman Times New Roman;}{\f4\fnil Wingdings;}}
+{\info{\subject EDGAR Online Pro}{\version3}{\*\company EDGAR Online, Inc.}{\author EDGAR Online HTML to RTF Converter. Version 3.0}{\*\category \0001493152-19-005649.html.ecq}{\doccomm Source: EDGAR Online, Inc. \'a9 Copyright 2019. All rights reserved.}{\title Appliqate Inc (Form: 1-Z, Received: 04/19/2019 06:03:10)}}
+\paperh15840\paperw12240\margl360\margr360\margt360\margb360\headery0\footery360\sprstsp\sprsbsp\sprsspbf\sprslnsp\widowctrl\viewscale100
+{\*\bkmkstart eolPage1}{\*\bkmkend eolPage1}{\*\bkmkstart FIS_TOP_OF_DOCUMENT}{\*\bkmkend FIS_TOP_OF_DOCUMENT}{\*\bkmkstart PRIMARY_DOC_HTM}{\*\bkmkend PRIMARY_DOC_HTM}{\*\bkmkstart FIS_FORM}{\*\bkmkend FIS_FORM}\pard \qc\vertalc \li225\ri8591 {\fs18\b Form 1-Z Issuer Information}\par
+\pard \li135\ri8501\sb90 \sl-15 \par
+\pard \qc \li225\ri8591\sb90 {\fs18\b \line FORM 1-Z}\par
+\pard \qc \li135\ri5966\sb120 {\fs18\b UNITED STATE}\par
+\pard \qc \li135\ri5966 {\fs18\b SECURITIES AND EXCHANGE COMMISSION}\par
+\pard \qc \li135\ri5966 {\fs18\b Washington, D.C. 20549}\par
+\pard \li255\ri6086\sb120 \sl-1\qc \par
+\pard \qc \li135\ri5966\sb120 {\fs18\b FORM 1-Z}\par
+\pard \qc \li135\ri5966 {\fs18\b EXIT REPORT UNDER REGULATION A}\par
+\pard \qc \li345\ri8711\sb120 {\fs18\b OMB APPROVAL}\par
+\pard \li135\ri8501\sb120 \sl-15 \par
+\pard \li225\ri8591\sb120 {\fs18\b OMB Number: ####-####}\par
+\pard \li135\ri8501\sb90 \sl-15 \par
+\pard \li225\ri8591\sb90 {\fs18\b Estimated average burden hours per response: ##.#}\par
+\pard \li120\ri120\sb210 {\fs32\b 1-Z: Filer Information}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb210 {\fs20 Issuer CIK}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 0001669778}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Issuer CCC}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 XXXXXXXX}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 File Number}\par
+\pard \li120\ri5751\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 Is this filing by a successor company pursuant to Rule 257(b)(5) resulting from a merger or other business combination?}\par
+\pard \li120\ri5751\sb150 {\fs20 {\nosupersub {\f4 o} Yes {\f4 x} No}}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Successor File Number}\par
+\pard \li120\ri5751\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 Is this a LIVE or TEST Filing?}\par
+\pard \li120\ri5751\sb150 {\fs20 {\nosupersub {\f4 x} LIVE {\f4 o} TEST}}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Is this an electronic copy of an official filing submitted in paper format?}\par
+\pard \li120\ri5751\sb150 {\fs20 {\f4\nosupersub o}}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Would you like a Return Copy?}\par
+\pard \li120\ri5751\sb150 {\fs20 {\f4\nosupersub x}}\par
+\pard \li30\ri30\sb120 {\fs20\b Submission Contact Information}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Name}\par
+\pard \li120\ri5751\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 Phone}\par
+\pard \li120\ri5751\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 E-Mail Address}\par
+\pard \li120\ri5751\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 Notify via Filing Website only?}\par
+\pard \li120\ri5751\sb150 {\fs20 {\f4\nosupersub o}}\par
+\pard \li120\ri120\sb210 {\fs32\b 1-Z: PRELIMINARY INFORMATION}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb210 {\fs20 Exact name of issuer as specified in the issuer's charter}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 Appliqate Inc.}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Address of Principal Executive Offices}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 Address 1}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 12465 South Fort Street}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Address 2}\par
+\pard \li120\ri5751\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 City}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 DRAPER}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 State/Country}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 UTAH}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Mailing Zip/ Postal Code}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 84020}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Phone}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 954-292-0033}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Commission File Number(s)}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 024-10540}\par
+\pard \li120\ri120\sb210 {\fs32\b 1-Z: PART I Summary Information Regarding the Offering and Proceeds}\par
+\pard \li60\ri60\sb210 {\fs24\b {\i Summary Information}}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Date of qualification of the offering statement}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 05-17-2016}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Date of commencement of the offering}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 05-17-2016}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Amount of securities qualified to be sold in the offering}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 1000000000}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Amount of securities sold in the offering}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 1000000000}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Price per security:}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 $ 0.0100}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 The portion of aggregate sales attributable to securities sold on behalf of the issuer}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 $ 1000000.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 The portion of aggregate sales attributable to securities sold on behalf of selling securityholders:}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 $ 0.00}\par
+\pard \li60\ri60\sb90 {\fs24\b {\i Fees in connection with this offering and names of service providers.}}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Underwriters - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Underwriters - Fees}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Underwriters - Fees}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Sales Commissions - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Sales Commissions - Fee}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Sales Commissions - Fee}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Finders' Fees - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Finders' Fees - Fees}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Finders' Fees - Fees}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Audit - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Accounting or Audit - Fees}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Audit - Fees}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Legal - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Legal - Fees}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Legal - Fees}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Promoters - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Promoters - Fees}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Promoters - Fees}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Blue Sky Compliance - Name of Service Provider}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\ri6865\sb150 {\cf2\fs18 Blue Sky Compliance - Fees}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Blue Sky Compliance - Fees}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri8631\sb150 {\fs18 $ 0.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 CRD Number of any broker or dealer listed}\par
+\pard \li150\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \cb1\cbpat1 \li120\ri6896\sb150 {\fs20 Net proceeds to the issuer}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 $ 1000000.00}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Clarification of responses (if necessary):}\par
+\pard \li150\sb150 \brdrb\brdrs\brdrw15\brdrcf0\sl-1 \par
+\pard \li120\ri120\sb210 {\fs32\b 1-Z: PART II Certification of Suspension of Duty to File Reports}\par
+\pard \li60\ri60\sb210 {\fs24\b {\i Certification}}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Title of each class of securities covered by this Form}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\sb150 {\cf2\fs18 common Stock}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Commission File Number(s)}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 024-10540}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Approximate number of holders of record as of the certification date}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 63}\par
+\pard \li120\ri120\sb210 {\fs32\b 1-Z: Signature}\par
+\pard \li60\ri60\sb210 {\fs24\b {\i Signature}}\par
+\pard \li30\ri30\sb90 {\fs20\b Pursuant to the requirements of Regulation A,}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Cik}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 0001669778}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 (Name of issuer as specified in charter)}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\sb150 {\cf2\fs18 Appliqate, Inc}\par
+\pard \li30\ri30\sb60 {\fs20\b certifies that it meets all of the conditions for termination of Regulation A reporting specified in Rule 257(d) and that there are no classes of securities other than those that are the subject to this Form 1-Z regarding which the issuer has Regulation A reporting obligations.}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 (Name of issuer as specified in charter)}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\sb150 {\cf2\fs18 Appliqate, Inc}\par
+\pard \li30\ri30\sb60 {\fs20\b Has caused this certification to be signed on its behalf by the undersigned duly authorized person.}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 By}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\sb150 {\cf2\fs18 Una Taylor}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Date}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li120\ri5751\sb150 {\fs18 04-18-2019}\par
+\pard \cb1\cbpat1 \li120\ri6896\sb120 {\fs20 Title}\par
+\pard \brdrb\brdrs\brdrw15\brdrcf0 \li150\sb150 {\cf2\fs18 President}\par
+\pard \li30\ri30\sb60 {\fs20\b Instructions: This Part II of Form 1-Z is required by Rule 257(d) of Regulation A. An officer of the issuer or any other duly authorized person may sign, and must do so by typed signature. The name and title of the person signing the form must be typed or printed under the signature. The signatory to the filing must also manually sign a signature page or other document authenticating, acknowledging or otherwise adopting his or her signature that appears in the filing. Such document must be executed before or at the time the filing is made and must be retained by the issuer for a period of five years. Upon request, the issuer must furnish to the Commission or its staff a copy of any or all documents retained pursuant to this instruction.}\par
+}
