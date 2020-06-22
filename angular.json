@@ -157,5 +157,8 @@
       }
     }
   },
-  "defaultProject": "angularssr"
+  "defaultProject": "angularssr",
+  "cli": {
+    "analytics": "ce9e8c08-7568-4234-a62e-2a82de238ea4"
+  }
 }
